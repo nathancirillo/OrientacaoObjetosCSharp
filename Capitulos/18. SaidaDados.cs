@@ -1,11 +1,11 @@
-namespace CourseVsCode
+namespace Course
 {
-    class SaidaDados 
+    class SaidaDados
     {
         static void Main(string[] args)
         {
             string nome = "Nathan";
-            int idade = 32;            
+            int idade = 32;
             double saldo = 234.3234;
 
             //usando placeholder
@@ -15,7 +15,7 @@ namespace CourseVsCode
             Console.WriteLine($"{nome} tem {idade} anos e saldo = {saldo:F2} reais");
 
             //usando concateção 
-            Console.WriteLine(nome + " tem " + idade + " anos e saldo = " + saldo.ToString("F2") +" reais");
+            Console.WriteLine(nome + " tem " + idade + " anos e saldo = " + saldo.ToString("F2") + " reais");
         }
     }
 }

@@ -1,13 +1,13 @@
-namespace CourseVsCode
+namespace Course
 {
-    class OperadoresAtribuicao 
+    class OperadoresAtribuicao
     {
         static void Main(string[] args)
         {
             int valor = 30;
             Console.WriteLine(valor);
 
-            valor += 2; 
+            valor += 2;
             Console.WriteLine(valor);
 
             valor -= 3;

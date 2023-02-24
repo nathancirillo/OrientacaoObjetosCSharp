@@ -1,8 +1,8 @@
 ﻿using System.Globalization;
 
-namespace CourseVsCode 
+namespace Course
 {
-    class ExeSaidaDados 
+    class ExeSaidaDados
     {
         static void Main(string[] args)
         {
