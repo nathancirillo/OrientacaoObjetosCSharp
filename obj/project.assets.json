@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Target\\.nuget\\packages\\": {},
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
+      "projectUniqueName": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
       "projectName": "CourseVSCode",
-      "projectPath": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
-      "packagesPath": "C:\\Users\\Target\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\obj\\",
+      "projectPath": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
+      "packagesPath": "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\",
+      "outputPath": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Target\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nathan Cirillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

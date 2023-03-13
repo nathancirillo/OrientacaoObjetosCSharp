@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Course.ExercicioMatriz</StartupObject>
+    <StartupObject>Course.FuncoesString</StartupObject>
   </PropertyGroup>
 
 </Project>
