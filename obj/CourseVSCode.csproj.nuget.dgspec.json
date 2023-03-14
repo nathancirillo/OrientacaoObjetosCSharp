@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj": {}
+    "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj": {}
   },
   "projects": {
-    "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj": {
+    "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
+        "projectUniqueName": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
         "projectName": "CourseVSCode",
-        "projectPath": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
-        "packagesPath": "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\",
-        "outputPath": "E:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\obj\\",
+        "projectPath": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\CourseVSCode.csproj",
+        "packagesPath": "C:\\Users\\Target\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudos\\Udemy\\Orientação a Objetos (Paulo)\\OrientacaoObjetosCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan Cirillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Target\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
