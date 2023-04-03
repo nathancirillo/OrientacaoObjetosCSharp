@@ -15,7 +15,7 @@ namespace Course
             Console.WriteLine($"{nome} tem {idade} anos e saldo = {saldo:F2} reais");
 
             //usando concateção 
-            Console.WriteLine(nome + " tem " + idade + " anos e saldo = " + saldo.ToString("F2") + " reais");
+            Console.WriteLine(nome + " possui " + idade + " anos e saldo = " + saldo.ToString("F2") + " reais");
         }
     }
 }
